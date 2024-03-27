@@ -190,3 +190,16 @@ In this section, we will get into sorting algorithms. We will start with `bubble
 9. [Merge Sort Implementation](./09-sorting-algorithms/09-merge-sort-implementation/readme.md)
 10. [Quick Sort Algorithm](./09-sorting-algorithms/10-quick-sort-algorithm/readme.md)
 11. [Quick Sort Implementation](./09-sorting-algorithms/11-quick-sort-implementation/readme.md)
+
+#### 10. Note
+##### Run typescript file directly
+1. Install ts-node `npm install -g ts-node`
+2. Create ts file
+3. Run TypeScript files `ts-node example.ts`
+
+##### Compile typescript to javascript and run javascript file
+1. Install TypeScript `npm install -g typescript`
+2. Create ts file
+3. Compile the TypeScript file `tsc example.ts`
+4. Run the JavaScript file `node example.js`
+
